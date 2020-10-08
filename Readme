@@ -1,0 +1,3 @@
+The program is all about the most common programming challenge or interview question. The FizzBuzz challenge. 
+
+The code has time complexity of o(n), as we know Range has a time complexity of O(n).
